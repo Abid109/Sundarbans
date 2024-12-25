@@ -1,0 +1,82 @@
+#h{
+  font-size: xx-large;
+  text-align: center;
+  text-shadow: 2px 2px #76bb40;
+  color: olive;
+  background-color: #dfeed4;
+}
+#p1{
+  font-size: x-large;
+  text-align:left ;
+  color: #263e0f;
+}
+#list1{
+  font-size: larger;
+  text-align: left;
+  color: #864ffe;
+}
+#ul{
+  font-size: large;
+  text-align:left;
+  color: #74a7ff;
+}
+#list2{
+  font-size: larger;
+  text-align: left;
+  color: #864ffe;
+}
+#ul1{
+  font-size: large;
+  text-align:left;
+  color: #74a7ff;
+}
+#list3{
+  font-size: larger;
+  text-align: left;
+  color: #864ffe;
+}
+#ul2{
+  font-size: large;
+  text-align:left;
+  color: #74a7ff;
+}
+#list4{
+  font-size: larger;
+  text-align: left;
+  color: #864ffe;
+}
+#ul3{
+  font-size: large;
+  text-align:left;
+  color: #74a7ff;
+}
+#list5{
+  font-size: larger;
+  text-align: left;
+  color: #864ffe;
+}
+#heading1{
+  text-align:center;
+  color: #000000;
+  text-shadow: 1px 1px #474747;
+   background-color: #dfeed4;
+}
+#hforp1{
+  text-align: center;
+  color: #38571a;
+  text-shadow: 1px 1px #ebebeb;
+   background-color: #dfeed4;
+}
+#brief{
+   background-image:url("https://i.ibb.co.com/GxVYPfb/IMG-0340.jpg");
+  color: #ffffff;
+  text-shadow: 1px 1px #000000;
+}
+#img122{
+  width:100%;
+  hight:auto;
+}
+#img100{
+  width:100%;
+  hight:auto;
+}
